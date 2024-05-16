@@ -89,10 +89,9 @@ path {
         fill: #f6f3d3; /* Azul, por exemplo */
 }
 
-#state-boca-do-acre, #Pauini, #Lábrea, #Tapauá, #state-atalaia-do-norte, #state-benjamin-constant, #state-sao-paulo-de-olivença, 
-#Tonantins, #Amaturá, #state-santo-antonio-do-ica, #Tabatinga, #Canutama{
+#Boca_do_Acre, #Pauini, #Lábrea, #Tapauá, #Atalaia_do_Norte, #Benjamin_Constant, #São_Paulo_de-Olivença, 
+#Tonantins, #Amaturá, #Santo_Antônio_do_Iça, #Tabatinga, #Canutama{
     fill: #f7ec8e;
-
 }
 
 #Guajará,#Ipixuna, #Envira, #Eirunepé, #Itamarati, #Carauari {
@@ -100,26 +99,30 @@ path {
 }
 
 
-#Barcelos, #state-sao-gabriel, #state-santa-isabel-do-rio-negro {
+#Barcelos, #São_Gabriel_da_Cachoeira, #Santa_Isabel_do_Rio_negro {
     fill: #c4e4e8 ;
 }
 
-#state-novo-airao,  #Codajás, #Coari, #Beruri, #Manaquiri, #Anori, #Manaus, #state-rio-preto-da-eva, #Iranduba,
-#Caapiranga, #Manacapuru, #Anamã, #Careiro, #state-careiro-da-varzea {
+#Novo_Airao,  #Codajás, #Coari, #Beruri, #Manaquiri, #Anori, #Manaus, #Rio_Preto_da_Eva, #Iranduba,
+#Caapiranga, #Manacapuru, #Anamã, #Careiro, #Careiro_da_Varzea {
     fill: #d6e8d1
 }
 
+.class-select option[value="Careiro da Várzea"] {
+    fill: #d6e8d1 /* Apenas como exemplo, lembre-se que nem todos os estilos são aplicáveis */
+}
 
-#Urucará, #Nhamundá, #Parintins, #Barreirinha, #state-sao-sebastiao-do-uatuma{
+
+#Urucará, #Nhamundá, #Parintins, #Barreirinha, #São_Sebastião_do_Uatumã{
     fill: #add2f0
 }
 
-#Maués, #Itapiranga, #Autazes, #state-presidente-figueiredo, #Itacoatiara, #state-boa-vista-do-ramos, 
+#Maués, #Itapiranga, #Autazes, #Presidente_Figueiredo, #Itacoatiara, #Boa_Vista_do_Ramos, 
 #Urucurituba, #Silves, #state-nova-olinda-do-norte {
     fill: #f7f0c1
 }
 
-#Humaitá, #Manicoré, #Apuí, #Borba, #state-novo-aripuana {
+#Humaitá, #Manicoré, #Apuí, #Borba, #Novo_Aripuana {
     fill: #f5debb;
 }
 
